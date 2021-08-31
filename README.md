@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tim-Healy
+- I'm teaching a data journalism class at the City University of New York Graduate School of Journalism
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 Reach me by emailing timothybhealy@gmail.com
 
